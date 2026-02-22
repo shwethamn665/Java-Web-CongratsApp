@@ -1,7 +1,8 @@
 <html>
 <body>
 <h1>Congratulations You Have Successfully Deployed Java Applications with version - 3</h1>
-<img src="images/logo.png" alt="logo">
+<img src="${pageContext.request.contextPath}/images/logo.png">
 </body>
 </html>
+
 
